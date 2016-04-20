@@ -1,6 +1,17 @@
-# Created by .ignore support plugin (hsz.mobi)
-*~
-.DS_Store
+*.class
 *.iml
-.idea
-target
+.idea/
+.DS_Store
+.tern-project/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#workspace Files
+
+target/
+.settings/
+.classpath
+.project
